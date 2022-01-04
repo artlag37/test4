@@ -1,0 +1,1 @@
+ & 'C:\Program Files\Java\jdk-17\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\artur\AppData\Roaming\Code\User\workspaceStorage\5d41166e63c57709ae28e30bd70f8e31\redhat.java\jdt_ws\calculateur_4e3c445\bin' 'calcul'
